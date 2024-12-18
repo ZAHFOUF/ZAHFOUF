@@ -1,4 +1,3 @@
 - 👋 Hi, I’m ZAHFOUF YOUNES From Morroco ❤
 - Full Stack developer ✨
-- "Developing my skills 💪" is my precept
 - Web site : https://younesdev.online/
