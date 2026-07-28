@@ -7,7 +7,7 @@
    <a href="https://youneszahfouf.com">Web Site</a> •
   <a href="https://www.linkedin.com/in/youneszahfouf/">LinkedIn</a> •
   <a href="mailto:contact@youneszahfouf.com">Email </a>  •
-  <a href="https://www.codingame.com/profile/2f285647f6585a38e0c29b8123a93a328422246"> Coding games </a>
+  <a href="https://www.codingame.com/profile/2f285647f6585a38e0c29b8123a93a328422246"> Coding games </a> •
   <a href="https://www.chess.com/member/younes-zahfouf"> Chess </a>
 </p>
 
