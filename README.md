@@ -16,7 +16,7 @@ I build specific, reliable business applications and maintain them so they can e
 I architect systems with clear thinking, use AI to accelerate development, and rely on engineering judgment to maintain and improve them long-term.
 
 ## 🧰 Tech Stack
-**Backend:** PHP, Symfony, Laravel  
+**Backend:** PHP, Symfony, Laravel , Nodejs
 **Frontend:** JavaScript, React  jQuery, HTML, CSS, Bootstrap  
 **Data:** MySQL / MongoDB  
 **CI/CD:** GitFlow,Github Actions, Docker , Aws(cloud provider)
